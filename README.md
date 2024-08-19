@@ -1,1 +1,1 @@
-# Data_Structure
+Repository for general data structure exercices. 
